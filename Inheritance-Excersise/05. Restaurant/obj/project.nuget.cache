@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZkfYqyJ5joS0ZcW6pFjopQqHXoxpUwuE8CCqpJAzQ4t7WZFRcNZUCDrRqfAp0o+6tA7L/jybTEWA8Ms7Ro1mg==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Inheritance-Excersise\\05. Restaurant\\05. Restaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
