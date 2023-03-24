@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyA0RDSi5zEuSNlB6ZfxTQqgtuJpmAq5CBp6BPh+V+OZluVZirbBuJ28m2O14a43dBFJe3j9vyzLw3FJ/MtqAQ==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Inheritance-Lab\\01. Single Inheritance\\01. Single Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

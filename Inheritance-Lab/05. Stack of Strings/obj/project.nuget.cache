@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbslRLs6Pgd0emap6qBaGMsC+ZfqtqEc0ekMeLvD66fHuSqJ2mte5R/dNn6ghjG6HIH8Fh0GO37NEwoamJDKxA==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Inheritance-Lab\\05. Stack of Strings\\05. Stack of Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

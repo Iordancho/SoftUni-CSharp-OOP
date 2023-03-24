@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ju0IxjaLx41yfjuH7pxFzYMw3o4C8ZZ/529GE+4bo3jVzPVwYFzsI0eVqVPhHffUqleckPTivDPg2JHLZRBTcA==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Inheritance-Lab\\02. Multiple Inheritance\\02. Multiple Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
