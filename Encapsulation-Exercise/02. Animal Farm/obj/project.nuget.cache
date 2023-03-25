@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4S9S8psfw7vAU+UXaPyqOZLpIb66CwKGmM4HsvkUVDmuv4ztWBJSxwW2ea0wJRIE3Q/PHIxc7Qoe/YlihJPWOA==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Encapsulation-Exercise\\02. Animal Farm\\02. Animal Farm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

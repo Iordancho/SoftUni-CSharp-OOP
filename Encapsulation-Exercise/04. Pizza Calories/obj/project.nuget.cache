@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxqTasuDzOiQRrU7hPcHur0dxmHG7pDJyxNxCTfPHDgDLhIJp/S/yF5vJYXfjRzPLG+iQRlBKlN/iCCr/AqpJw==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Encapsulation-Exercise\\04. Pizza Calories\\04. Pizza Calories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
