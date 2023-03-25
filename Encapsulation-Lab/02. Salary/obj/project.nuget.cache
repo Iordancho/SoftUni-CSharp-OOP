@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOGrtrQJTK+emrFmWFz75w1pqjBTIZi3i2Cx0P6oKbMMgAPi07SIvBXNN8VbyVeAQGhF496fwF2UDB+I+q8Pxw==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Encapsulation-Lab\\02. Salary\\02. Salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
