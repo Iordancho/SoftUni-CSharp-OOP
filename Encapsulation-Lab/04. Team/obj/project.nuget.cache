@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVrz2WE2805t5CqfE1Skkv5pZbP6IeBnzS1zIWRm8XsoU7ehY0BK4twSTkU5AuiyKiDJaCAqgVBwmqkX4yilCg==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Encapsulation-Lab\\04. Team\\04. Team.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
