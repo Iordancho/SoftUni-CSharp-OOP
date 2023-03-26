@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNK0fJYSwebxmlj3B+NTosmkb85bKIsl1nH56ONDAt4vd64s87P3E8vkkZ6kzvnqU+FX9MIh3fEzPN9qpzJqHQ==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Interfaces and Abstraction-Exercise\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8jcr1azSN2jFgqAUH/rjBDphNDpaUbo90ManYeA5GnD2tQfkLST6V6+vajo2MwwgDue0Ds/87O22D9urhpFCw==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Interfaces and Abstraction-Exercise\\06. Food Shortage\\06. Food Shortage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "adZG9p9wf9zdeIZrS/1yvqPTow/mCLTMS8Tf6sa/zWSEFPEXqgjD/LkluPNi2Wc3D1cAMqSY/2UOhsWrPSV+kg==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Interfaces and Abstraction-Exercise\\03. Telephony\\03. Telephony.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

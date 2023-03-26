@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UAmF2b0ikzL/an5HYVBKjo9WN/Yp/5SVNIJLSqzP8qwqMIUGDO9Z8Z3iPX0KJ3kOm0DdKNfwFi74rChZo/rOg==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Interfaces and Abstraction-Exercise\\02. Multiple Implementation\\02. Multiple Implementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
