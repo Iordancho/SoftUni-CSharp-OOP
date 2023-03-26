@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOXtP6Mnh/KRG6mzyUUBusWMoW17h0i6HX/aWm//P13BHxoi8/P6ojQOSK0wHFaAPXgQYvBIgalULsEcqNgrOA==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Interfaces and Abstraction-Lab\\02. Cars\\02. Cars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
