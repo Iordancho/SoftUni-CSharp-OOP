@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iINyTBtyqwemf1YDCQOBNy38r2ivAMHLN7uzToltZfLvhbYowczJBV/E90eWamCP2g/Dx5l20C6b8p5dkIN2pw==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Reflection and Attributes - Lab\\05. Create Attribute\\05. Create Attribute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

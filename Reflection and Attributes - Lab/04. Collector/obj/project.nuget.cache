@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L2xJSpANSadK4gd84a83TOlp7ZisRbU7jMppOWTrDufXXZhpN7iDPanAapL5rtKD2rLjXw7QUupLMTfxnEkuQA==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Reflection and Attributes - Lab\\04. Collector\\04. Collector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

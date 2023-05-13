@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hR6nMiH+ci5LtTlR5onx/8h1QWXn2Pgy1rsBeeBrqP61w+5hvcmNnwQBM4n+FsZkpxBeD73+NI+4lexu8zDAQ==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Reflection and Attributes - Lab\\06. Code Tracker\\06. Code Tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

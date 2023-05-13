@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWHq7qWe0Iw1pYKCtmJo4iJNldVkfhQIi5SD4lrlG4O0Obf26ltELekWr9hWkB2l6A8zvvC1UBh45g1WZf2nGQ==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Reflection and Attributes - Lab\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

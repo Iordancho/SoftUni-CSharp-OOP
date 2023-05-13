@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9tTnz5EkY/PRPmDjNYl2xpcxayNj/c3EzOXRLO9rXW39yI2I+ByGMme+LjXVi46wOXRJ8sQ0otNN0FzkwdaTA==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Reflection and Attributes - Lab\\01. Stealer\\01. Stealer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

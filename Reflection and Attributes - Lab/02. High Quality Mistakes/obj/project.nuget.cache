@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S1byqggJhAPnkQlc2Alq6a7bXuIKiZ6oOEHFZBAnHA+i121xfLAq6JtnRoipjIZZ0UgORDpZc6GltmEfHX8GoA==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Reflection and Attributes - Lab\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
