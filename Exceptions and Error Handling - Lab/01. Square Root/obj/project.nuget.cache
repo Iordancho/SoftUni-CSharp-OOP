@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmY2+WAZbfJRcV5SJ3b7/62qz2JTuHFPR79R9rBjqfaUDsO8XaaQkpOxoOMWmT4unUhjYh6M/Cs9iv8LZ5Sfaw==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Exceptions and Error Handling - Lab\\01. Square Root\\01. Square Root.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

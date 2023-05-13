@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbgTamr4B95M17Y+b4plH8ImrNBbzRh79stuuhMvUtT4WPiEw+SiBt5oSTQrO/60zh8Hz9QRxhYAb7JT7pKg0w==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Exceptions and Error Handling - Lab\\05. Play Catch\\05. Play Catch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

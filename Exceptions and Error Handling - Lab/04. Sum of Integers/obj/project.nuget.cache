@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hb6wM4OhuE85xPrZSGG73K6osi7P8760VVFMXIGNL19ZB1GnP5GGl63y/73Kh4XIthRhau1flueXO5s5CN1RzA==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Exceptions and Error Handling - Lab\\04. Sum of Integers\\04. Sum of Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
