@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2a1qy+OrLJbirqfsg67I5XownyFQAzP/IPU5QRIXhZsB714XSedvOAqaHMzm5EbvooLwrDiI2UVmolZ9/wNSkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дани\\Desktop\\EncapLab\\01. Test Axe_Skeleton_3.1\\Skeleton\\Skeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
