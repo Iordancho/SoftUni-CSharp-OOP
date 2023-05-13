@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJLMgxoUS3jP1eFjKc/VwMGVYYoFuM5Wvu4gZcIwxukrwg3C+YqmPG+4+4quZJ+Uh/IgLEjyyo5gRSjYZXWLbw==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Polymorphism-Lab\\01. Math Operations\\01. Math Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

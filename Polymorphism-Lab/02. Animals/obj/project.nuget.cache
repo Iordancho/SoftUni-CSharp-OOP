@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbkfMpkT/lZHvZLk44mzYauCQmYAZw2NM2+BKu3HlhUNDzVWJwLQA6rOKo/TMdgLeANsFozfJxe9tcc9k7/Msg==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\Polymorphism-Lab\\02. Animals\\02. Animals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
